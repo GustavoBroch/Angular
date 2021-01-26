@@ -41,4 +41,5 @@ export class TemaComponent implements OnInit {
       this.listaTemas = resp
     })
   }
+
 }
